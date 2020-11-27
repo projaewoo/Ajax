@@ -1,0 +1,14 @@
+getemployees.jsp - getdata.jsp (server)
+
+Proxy
+======RSS 신문 가져오기======
+proxy_etnews.jsp
+etnews_reader.html
+
+=====네이버 영화 OPEN API 사용======
+proxy_movie.jsp (server) (나 대신 네이버 영화 요청)
+movie.html
+
+=======다음 카카오 우편번호 서비스 api===========
+openapidemo.html  (우편번호)
+openapidemo1.html  (지도)
